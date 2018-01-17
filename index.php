@@ -46,6 +46,8 @@
                             <li class="active"><a href="./"><?php echo $index_leftDash; ?></a></li>
                         </ul>
                     </li>
+                    <li class="has-submenu active"><a href="<?php echo $BugsDir; ?>"><span class="nav-label">Bugs</span></a>
+               </ul>
             </nav>
         </aside>
         <section class="content">
